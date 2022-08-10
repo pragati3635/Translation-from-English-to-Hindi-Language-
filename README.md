@@ -8,3 +8,5 @@ Link for dataset : https://www.kaggle.com/datasets/b19cse065/hindi1english
 Group Members :
 Pragati Sinha (B19CSE065)
 Sandip Kumar Burnwal (B19CSE075)
+
+![Screenshot (160)](https://user-images.githubusercontent.com/59009348/183917823-6b090f68-9af3-4105-9bc8-dd99d1f95eaf.png)
